@@ -7,7 +7,7 @@ function save(event) {
         method: 'POST',
         body: JSON.stringify(payload),
         headers: {
-            'Content-type': 'application/json'
+            'Content-type': 'application/jsonmnkn'
         }
     });
 }
